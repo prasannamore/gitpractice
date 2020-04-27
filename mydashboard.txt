@@ -3,5 +3,6 @@
 <p>hi every one<p>
 <p>new branch<p>
 <p> stashing <p>
+<p> commit after checkout <p>
 </body>
 </html>
